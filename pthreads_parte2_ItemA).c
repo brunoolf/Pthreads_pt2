@@ -63,6 +63,3 @@ int main() {
 
     return 0;
 }
-
-
-// O que mudou foi a utilização do mutex para fazer exclusão mútua e assim evitar a concorrência entre threads que estavam tentando acessar e modificar a variável 'sum' ao mesmo tempo o que estava fazendo a versão anterior gerar resultados inconsistentes e imprecisos.
