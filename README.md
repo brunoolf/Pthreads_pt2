@@ -32,6 +32,6 @@
 # Print da execução
 
 
-<img src="/Prints/execucao.png">
+<img src="/Prints/execucao.jpeg">
 
-<img src="/Prints/execucao2.png">
+<img src="/Prints/execucao2.jpeg">
